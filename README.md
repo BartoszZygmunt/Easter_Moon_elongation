@@ -1,4 +1,4 @@
-Date od Easter - Moon elongation method
+The date of Easter - Moon elongation method
 
 The program calculates and compares Easter dates according to:
 
